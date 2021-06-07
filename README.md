@@ -19,7 +19,7 @@ The components listed here are not 100% what was used but are compatible for the
   * 2 - [wled (Software For LED Control)](https://github.com/Aircoookie/WLED)
 
 ## PCB Layout
-Simple layout to fit all the components.
+  * Simple layout to fit all the components.
 <img src="/images/PCB.PNG" width="50%">
 
 
