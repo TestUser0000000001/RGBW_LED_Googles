@@ -18,7 +18,7 @@ The components listed here are not 100% what was used but are compatible for the
   * 1 - [esptool (Flashing ESP)](https://github.com/espressif/esptool)
   * 2 - [wled (Software For LED Control)](https://github.com/Aircoookie/WLED)
 
-## PC Design to fit all the components
+## PCB Layout to fit all the components
 <img src="/images/PCB.PNG" width="50%">
 
 
