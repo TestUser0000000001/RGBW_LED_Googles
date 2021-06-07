@@ -1,6 +1,8 @@
 # RGBW_LED_Googles
+<img src="/images/DIY-RGB-GOGGLES-2-JPG.jpg" width="30%">
 
-Hacksmith Vlog #11
+[  * Hacksmith Vlog #11]()
+
 
 RGBW-Goggles form vlog #11, here you will find the hardware and software used for the project.
 This will be a summary (not a tutorial) of the Goggles project.
